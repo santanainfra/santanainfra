@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Flávio Santana
-- 👀 I’m interested Tenho grande interesse e dedicação em tecnologias como Windows, Linux, Terraform, Kubernetes, Docker, Ansible, Azure e AWS. Estou sempre buscando aprimorar meus conhecimentos e acompanhar as melhores práticas do mercado para aplicar essas soluções de forma eficiente.
+- 👀 I’m interested in Tenho grande interesse e dedicação em tecnologias como Windows, Linux, Terraform, Kubernetes, Docker, Ansible, Azure e AWS. Estou sempre buscando aprimorar meus conhecimentos e acompanhar as melhores práticas do mercado para aplicar essas soluções de forma eficiente.
 - 🌱 I’m currently learning Linux, Terraform, Kubernetes, Docker, Ansible, Azure e AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
