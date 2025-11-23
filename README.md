@@ -3,7 +3,7 @@ Olá, eu sou o Flávio Santana
 🌐️ Tenho interesse em tecnologias como Windows, Linux, Terraform, Kubernetes, Docker, Ansible, Azure e AWS.
 Estou sempre buscando aprimorar meus conhecimentos e acompanhar as melhores práticas do mercado para aplicar essas soluções de forma eficiente.
 
-🌐️ Atualmente, estou aprendendo Linux, Terraform, Kubernetes, Docker, Ansible, Azure e AWS.
+🌐️ Atualmente, estou aprendendo Linux, N8N, Terraform, Kubernetes, Docker, Ansible, Azure e AWS.
 Além disso, estou estudando e desenvolvendo habilidades em N8N, Docker, Linux, Terraform, Vagrant, Kubernetes, Zabbix, Grafana e Prometheus.
 Estou focado em aprimorar meus conhecimentos nessas tecnologias para contribuir de forma eficaz em projetos de infraestrutura e monitoramento.
 
