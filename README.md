@@ -1,4 +1,4 @@
-Olá, eu sou o Flávio Santana
+Olá, eu sou o Flávio Santana!
 
 🌐️ Tenho interesse em tecnologias como Windows, Linux, Terraform, Kubernetes, Docker, Ansible, Azure e AWS.
 Estou sempre buscando aprimorar meus conhecimentos e acompanhar as melhores práticas do mercado para aplicar essas soluções de forma eficiente.
