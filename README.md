@@ -3,6 +3,7 @@
 💻 Analista de Suporte N2 | N3
 ☁️ Infraestrutura • Cloud Computing • DevOps • Monitoramento
 📍 Brasil
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👨‍💻 Sobre mim
 
@@ -12,7 +13,8 @@ Sou profissional de TI com foco em Infraestrutura, Cloud e Automação, com expe
 
 Tenho forte interesse em ambientes Linux e Windows Server, além de tecnologias modernas como Cloud Computing, Containers e Infraestrutura como Código (IaC).
 
-Atualmente estou aprofundando meus conhecimentos em:
+
+🌐️Atualmente estou aprofundando meus conhecimentos em:
 
 🐧 Linux (Administração e Hardening)
 
@@ -28,10 +30,12 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 🧪 Ambientes de laboratório com Vagrant
 
-Meu objetivo é atuar cada vez mais próximo de projetos de Cloud, DevOps e Observabilidade, aplicando boas práticas de mercado e frameworks como ITIL®.
+
+🌐️Meu objetivo é atuar cada vez mais próximo de projetos de Cloud, DevOps e Observabilidade, aplicando boas práticas de mercado e frameworks como ITIL®.
 
 
 🛠️ Stack Tecnológica
+
 💻 Sistemas Operacionais
 
 Windows Server
